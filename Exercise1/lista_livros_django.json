@@ -1,0 +1,1712 @@
+[
+    {
+        "title_suggest": "Quentin Tarantino's Django unchained",
+        "edition_key": [
+            "OL27224188M"
+        ],
+        "isbn": [
+            "1628926600",
+            "9781628926606",
+            "1628928395",
+            "9781628928396"
+        ],
+        "has_fulltext": false,
+        "language": [
+            "eng"
+        ],
+        "edition_count": 1,
+        "oclc": [
+            "857981612"
+        ],
+        "last_modified_i": 1563563252,
+        "title": "Quentin Tarantino's Django unchained",
+        "subject": [
+            "Django unchained (Motion picture)"
+        ],
+        "author_name": [
+            "Oliver C. Speck"
+        ],
+        "lccn": [
+            "2014006389"
+        ],
+        "seed": [
+            "/books/OL27224188M",
+            "/works/OL20044159W",
+            "/subjects/django_unchained_(motion_picture)",
+            "/authors/OL6769479A"
+        ],
+        "first_publish_year": 2014,
+        "publish_year": [
+            2014
+        ],
+        "key": "/works/OL20044159W",
+        "text": [
+            "OL27224188M",
+            "1628926600",
+            "9781628926606",
+            "1628928395",
+            "9781628928396",
+            "Oliver C. Speck",
+            "857981612",
+            "OL6769479A",
+            "Django unchained (Motion picture)",
+            "the continuation of metacinema",
+            "Quentin Tarantino's Django unchained",
+            "/works/OL20044159W",
+            "edited by Oliver C. Speck",
+            "2014006389"
+        ],
+        "publish_date": [
+            "2014"
+        ],
+        "author_key": [
+            "OL6769479A"
+        ],
+        "type": "work",
+        "ebook_count_i": 0
+    },
+    {
+        "title_suggest": "Django",
+        "edition_key": [
+            "OL24483381M"
+        ],
+        "isbn": [
+            "9780321643407",
+            "0321643402"
+        ],
+        "has_fulltext": false,
+        "text": [
+            "OL24483381M",
+            "9780321643407",
+            "0321643402",
+            "Steven Holzner",
+            "505561543",
+            "OL29435A",
+            "Django",
+            "by Steven Holzner",
+            "Python (Computer program language)",
+            "Django (Electronic resource)",
+            "Web site development",
+            "/works/OL15525966W",
+            "Peachpit",
+            "Pearson Education [distributor]",
+            "2010476940",
+            "Steve,  Ph.D. Holzner",
+            "Steve Holzner"
+        ],
+        "author_name": [
+            "Steven Holzner"
+        ],
+        "seed": [
+            "/books/OL24483381M",
+            "/works/OL15525966W",
+            "/subjects/web_site_development",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/python_(computer_program_language)",
+            "/authors/OL29435A"
+        ],
+        "oclc": [
+            "505561543"
+        ],
+        "author_key": [
+            "OL29435A"
+        ],
+        "subject": [
+            "Python (Computer program language)",
+            "Django (Electronic resource)",
+            "Web site development"
+        ],
+        "title": "Django",
+        "publish_date": [
+            "2010"
+        ],
+        "type": "work",
+        "ebook_count_i": 0,
+        "publish_place": [
+            "London",
+            "Berkeley, Calif"
+        ],
+        "edition_count": 1,
+        "key": "/works/OL15525966W",
+        "publisher": [
+            "Peachpit",
+            "Pearson Education [distributor]"
+        ],
+        "language": [
+            "eng"
+        ],
+        "lccn": [
+            "2010476940"
+        ],
+        "last_modified_i": 1291169173,
+        "author_alternative_name": [
+            "Steve,  Ph.D. Holzner",
+            "Steve Holzner"
+        ],
+        "publish_year": [
+            2010
+        ],
+        "first_publish_year": 2010
+    },
+    {
+        "title_suggest": "Django : the life and music of a Gypsy legend",
+        "edition_key": [
+            "OL26639900M"
+        ],
+        "cover_i": 8323970,
+        "has_fulltext": true,
+        "text": [
+            "OL26639900M",
+            "Dregni, Michael, 1961-",
+            "djangolifemusico00dreg",
+            "OL7444475A",
+            "Accessible book",
+            "Reinhardt, Django, 1910-1953",
+            "Protected DAISY",
+            "Django : the life and music of a Gypsy legend",
+            "/works/OL18157613W"
+        ],
+        "author_name": [
+            "Dregni, Michael, 1961-"
+        ],
+        "seed": [
+            "/books/OL26639900M",
+            "/works/OL18157613W",
+            "/subjects/reinhardt_django_1910-1953",
+            "/authors/OL7444475A"
+        ],
+        "ia": [
+            "djangolifemusico00dreg"
+        ],
+        "author_key": [
+            "OL7444475A"
+        ],
+        "subject": [
+            "Accessible book",
+            "Reinhardt, Django, 1910-1953",
+            "Protected DAISY"
+        ],
+        "title": "Django : the life and music of a Gypsy legend",
+        "lending_identifier_s": "djangolifemusico00dreg",
+        "ia_collection_s": "printdisabled;inlibrary;audio_music;americana;archiveofcontemporarymusic",
+        "type": "work",
+        "ebook_count_i": 1,
+        "edition_count": 1,
+        "key": "/works/OL18157613W",
+        "public_scan_b": false,
+        "last_modified_i": 1547026992,
+        "lending_edition_s": "OL26639900M",
+        "cover_edition_key": "OL26639900M",
+        "printdisabled_s": "OL26639900M"
+    },
+    {
+        "title_suggest": "Lightweight Django: Using REST, WebSockets, and Backbone",
+        "publisher": [
+            "O'Reilly Media"
+        ],
+        "cover_i": 8513596,
+        "isbn": [
+            "9781491945940",
+            "149194594X"
+        ],
+        "has_fulltext": false,
+        "title": "Lightweight Django: Using REST, WebSockets, and Backbone",
+        "edition_key": [
+            "OL26837967M"
+        ],
+        "last_modified_i": 1563474253,
+        "edition_count": 1,
+        "subject": [
+            "Authoring programs",
+            "Django (Electronic resource)",
+            "Web sites",
+            "Web site development"
+        ],
+        "author_name": [
+            "Julia Elman",
+            "Mark Lavin"
+        ],
+        "cover_edition_key": "OL26837967M",
+        "seed": [
+            "/books/OL26837967M",
+            "/works/OL19547387W",
+            "/subjects/authoring_programs",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/web_sites",
+            "/subjects/web_site_development",
+            "/authors/OL7498053A",
+            "/authors/OL7498054A"
+        ],
+        "first_publish_year": 2014,
+        "publish_year": [
+            2014
+        ],
+        "key": "/works/OL19547387W",
+        "text": [
+            "OL26837967M",
+            "9781491945940",
+            "149194594X",
+            "Julia Elman",
+            "Mark Lavin",
+            "OL7498053A",
+            "OL7498054A",
+            "Authoring programs",
+            "Django (Electronic resource)",
+            "Web sites",
+            "Web site development",
+            "Lightweight Django: Using REST, WebSockets, and Backbone",
+            "/works/OL19547387W",
+            "O'Reilly Media"
+        ],
+        "publish_date": [
+            "Nov 13, 2014"
+        ],
+        "author_key": [
+            "OL7498053A",
+            "OL7498054A"
+        ],
+        "type": "work",
+        "ebook_count_i": 0
+    },
+    {
+        "title_suggest": "Sams teach yourself Django in 24 hours",
+        "edition_key": [
+            "OL18500623M"
+        ],
+        "isbn": [
+            "067232959X",
+            "9780672329593"
+        ],
+        "has_fulltext": false,
+        "text": [
+            "OL18500623M",
+            "067232959X",
+            "9780672329593",
+            "Brad Dayley",
+            "OL244272A",
+            "Web site development",
+            "Django (Electronic resource)",
+            "Python (Computer program language)",
+            "Sams teach yourself Django in 24 hours",
+            "/works/OL2023111W",
+            "Brad Dayley.",
+            "Sams",
+            "2008001956"
+        ],
+        "author_name": [
+            "Brad Dayley"
+        ],
+        "seed": [
+            "/books/OL18500623M",
+            "/works/OL2023111W",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/python_(computer_program_language)",
+            "/subjects/web_site_development",
+            "/authors/OL244272A"
+        ],
+        "author_key": [
+            "OL244272A"
+        ],
+        "subject": [
+            "Web site development",
+            "Django (Electronic resource)",
+            "Python (Computer program language)"
+        ],
+        "title": "Sams teach yourself Django in 24 hours",
+        "publish_date": [
+            "2008"
+        ],
+        "type": "work",
+        "ebook_count_i": 0,
+        "publish_place": [
+            "Indianapolis, Ind"
+        ],
+        "edition_count": 1,
+        "key": "/works/OL2023111W",
+        "id_goodreads": [
+            "968743"
+        ],
+        "publisher": [
+            "Sams"
+        ],
+        "language": [
+            "eng"
+        ],
+        "lccn": [
+            "2008001956"
+        ],
+        "last_modified_i": 1563249541,
+        "id_librarything": [
+            "4901136"
+        ],
+        "publish_year": [
+            2008
+        ],
+        "first_publish_year": 2008
+    },
+    {
+        "title_suggest": "Django by example",
+        "edition_key": [
+            "OL27201455M"
+        ],
+        "isbn": [
+            "1784391913",
+            "9781784391911"
+        ],
+        "has_fulltext": false,
+        "language": [
+            "eng"
+        ],
+        "edition_count": 1,
+        "oclc": [
+            "931801939"
+        ],
+        "last_modified_i": 1563530511,
+        "title": "Django by example",
+        "subject": [
+            "Web site development",
+            "Django (Electronic resource)",
+            "Web applications",
+            "Programming"
+        ],
+        "author_name": [
+            "Antonio Mele"
+        ],
+        "seed": [
+            "/books/OL27201455M",
+            "/works/OL20021395W",
+            "/subjects/programming",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/web_applications",
+            "/subjects/web_site_development",
+            "/authors/OL7495367A"
+        ],
+        "first_publish_year": 2015,
+        "publish_year": [
+            2015
+        ],
+        "key": "/works/OL20021395W",
+        "text": [
+            "OL27201455M",
+            "1784391913",
+            "9781784391911",
+            "Antonio Mele",
+            "931801939",
+            "OL7495367A",
+            "Web site development",
+            "Django (Electronic resource)",
+            "Web applications",
+            "Programming",
+            "create your own line of successful web applications with Django",
+            "Django by example",
+            "/works/OL20021395W",
+            "Antonio Mel\u00e9"
+        ],
+        "publish_date": [
+            "2015"
+        ],
+        "author_key": [
+            "OL7495367A"
+        ],
+        "type": "work",
+        "ebook_count_i": 0
+    },
+    {
+        "title_suggest": "Two Scoops of django Best Practices for Django 1.6",
+        "publisher": [
+            "Two Scoops Press"
+        ],
+        "cover_i": 8085862,
+        "isbn": [
+            "098146730X",
+            "9780981467306"
+        ],
+        "has_fulltext": false,
+        "title": "Two Scoops of django Best Practices for Django 1.6",
+        "edition_key": [
+            "OL26390989M"
+        ],
+        "last_modified_i": 1563479794,
+        "edition_count": 1,
+        "subject": [
+            "Computer programming",
+            "Python (Computer program language)",
+            "Django (Electronic resource)",
+            "Web site development",
+            "Programming languages (Electronic computers)"
+        ],
+        "author_name": [
+            "Daniel Greenfeld"
+        ],
+        "cover_edition_key": "OL26390989M",
+        "seed": [
+            "/books/OL26390989M",
+            "/works/OL17801444W",
+            "/subjects/web_site_development",
+            "/subjects/python_(computer_program_language)",
+            "/subjects/computer_programming",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/programming_languages_(electronic_computers)",
+            "/authors/OL7402071A"
+        ],
+        "first_publish_year": 2014,
+        "publish_year": [
+            2014
+        ],
+        "key": "/works/OL17801444W",
+        "text": [
+            "OL26390989M",
+            "098146730X",
+            "9780981467306",
+            "Daniel Greenfeld",
+            "OL7402071A",
+            "Computer programming",
+            "Python (Computer program language)",
+            "Django (Electronic resource)",
+            "Web site development",
+            "Programming languages (Electronic computers)",
+            "Two Scoops of django Best Practices for Django 1.6",
+            "/works/OL17801444W",
+            "Two Scoops Press"
+        ],
+        "publish_date": [
+            "2014"
+        ],
+        "author_key": [
+            "OL7402071A"
+        ],
+        "type": "work",
+        "ebook_count_i": 0
+    },
+    {
+        "title_suggest": "Pro Django (Expert's Voice in Web Development)",
+        "publisher": [
+            "Apress"
+        ],
+        "cover_i": 8514889,
+        "isbn": [
+            "9781430258094",
+            "1430258098"
+        ],
+        "has_fulltext": false,
+        "title": "Pro Django (Expert's Voice in Web Development)",
+        "edition_key": [
+            "OL26838771M"
+        ],
+        "last_modified_i": 1563420326,
+        "edition_count": 1,
+        "subject": [
+            "Authoring programs",
+            "Python (Computer program language)",
+            "Django (Electronic resource)",
+            "Web sites",
+            "Web site development"
+        ],
+        "author_name": [
+            "Marty Alchin"
+        ],
+        "cover_edition_key": "OL26838771M",
+        "seed": [
+            "/books/OL26838771M",
+            "/works/OL19548206W",
+            "/subjects/authoring_programs",
+            "/subjects/web_site_development",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/web_sites",
+            "/subjects/python_(computer_program_language)",
+            "/authors/OL6842967A"
+        ],
+        "first_publish_year": 2013,
+        "publish_year": [
+            2013
+        ],
+        "key": "/works/OL19548206W",
+        "text": [
+            "OL26838771M",
+            "9781430258094",
+            "1430258098",
+            "Marty Alchin",
+            "OL6842967A",
+            "Authoring programs",
+            "Python (Computer program language)",
+            "Django (Electronic resource)",
+            "Web sites",
+            "Web site development",
+            "Pro Django (Expert's Voice in Web Development)",
+            "/works/OL19548206W",
+            "Apress"
+        ],
+        "publish_date": [
+            "Jul 10, 2013"
+        ],
+        "author_key": [
+            "OL6842967A"
+        ],
+        "type": "work",
+        "ebook_count_i": 0
+    },
+    {
+        "title_suggest": "Learning website development with Django",
+        "edition_key": [
+            "OL25541319M"
+        ],
+        "cover_i": 8686222,
+        "isbn": [
+            "9781847193353",
+            "1847193358"
+        ],
+        "has_fulltext": true,
+        "text": [
+            "OL25541319M",
+            "9781847193353",
+            "1847193358",
+            "Ayman Hourieh",
+            "ebrary, Inc",
+            "324989614",
+            "learningwebsited00hour",
+            "OL7202395A",
+            "Python (Computer program language)",
+            "Accessible book",
+            "Web sites",
+            "Authoring programs",
+            "Django (Electronic resource)",
+            "Protected DAISY",
+            "a beginner's tutorial to building web applications, quickly and cleanly, with the Django application framework",
+            "Learning website development with Django",
+            "/works/OL16931184W",
+            "Ayman Hourieh",
+            "Packt"
+        ],
+        "author_name": [
+            "Ayman Hourieh"
+        ],
+        "contributor": [
+            "ebrary, Inc"
+        ],
+        "seed": [
+            "/books/OL25541319M",
+            "/works/OL16931184W",
+            "/subjects/authoring_programs",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/web_sites",
+            "/subjects/python_(computer_program_language)",
+            "/authors/OL7202395A"
+        ],
+        "oclc": [
+            "324989614"
+        ],
+        "ia": [
+            "learningwebsited00hour"
+        ],
+        "author_key": [
+            "OL7202395A"
+        ],
+        "subject": [
+            "Python (Computer program language)",
+            "Accessible book",
+            "Web sites",
+            "Authoring programs",
+            "Django (Electronic resource)",
+            "Protected DAISY"
+        ],
+        "title": "Learning website development with Django",
+        "ia_collection_s": "printdisabled;librarygenesis",
+        "printdisabled_s": "OL25541319M",
+        "type": "work",
+        "ebook_count_i": 1,
+        "publish_place": [
+            "Birmingham, U.K"
+        ],
+        "edition_count": 1,
+        "key": "/works/OL16931184W",
+        "public_scan_b": false,
+        "publisher": [
+            "Packt"
+        ],
+        "language": [
+            "eng"
+        ],
+        "last_modified_i": 1562286916,
+        "first_publish_year": 2008,
+        "cover_edition_key": "OL25541319M",
+        "publish_year": [
+            2008
+        ],
+        "publish_date": [
+            "2008"
+        ]
+    },
+    {
+        "title_suggest": "Web development with Django cookbook",
+        "edition_key": [
+            "OL27199113M"
+        ],
+        "isbn": [
+            "9781783286898",
+            "178328689X"
+        ],
+        "has_fulltext": false,
+        "text": [
+            "OL27199113M",
+            "9781783286898",
+            "178328689X",
+            "Aidas Bendoraitis",
+            "903194926",
+            "OL7497256A",
+            "Development",
+            "Internet programming",
+            "Django (Electronic resource)",
+            "Web site development",
+            "Application software",
+            "over 70 practical recipes to create multilingual, responsive, and scalable websites with Django",
+            "Web development with Django cookbook",
+            "/works/OL20019050W",
+            "Aidas Bendoraitis",
+            "Packt Publishing Ltd."
+        ],
+        "author_name": [
+            "Aidas Bendoraitis"
+        ],
+        "seed": [
+            "/books/OL27199113M",
+            "/works/OL20019050W",
+            "/subjects/development",
+            "/subjects/internet_programming",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/web_site_development",
+            "/subjects/application_software",
+            "/authors/OL7497256A"
+        ],
+        "oclc": [
+            "903194926"
+        ],
+        "author_key": [
+            "OL7497256A"
+        ],
+        "subject": [
+            "Development",
+            "Internet programming",
+            "Django (Electronic resource)",
+            "Web site development",
+            "Application software"
+        ],
+        "title": "Web development with Django cookbook",
+        "publish_date": [
+            "2014"
+        ],
+        "type": "work",
+        "ebook_count_i": 0,
+        "publish_place": [
+            "Birmingham, UK"
+        ],
+        "edition_count": 1,
+        "key": "/works/OL20019050W",
+        "publisher": [
+            "Packt Publishing Ltd."
+        ],
+        "language": [
+            "eng"
+        ],
+        "last_modified_i": 1563527588,
+        "publish_year": [
+            2014
+        ],
+        "first_publish_year": 2014
+    },
+    {
+        "title_suggest": "Django design patterns and best practices",
+        "edition_key": [
+            "OL27199103M"
+        ],
+        "isbn": [
+            "1783986646",
+            "9781783986644"
+        ],
+        "has_fulltext": false,
+        "text": [
+            "OL27199103M",
+            "1783986646",
+            "9781783986644",
+            "Arun Ravindran",
+            "910333726",
+            "OL7494655A",
+            "Authoring programs",
+            "Django (Electronic resource)",
+            "Web sites",
+            "Web site development",
+            "Computer programs",
+            "easily build maintenable website with powerful and relevant Django design patterns",
+            "Django design patterns and best practices",
+            "/works/OL20019040W",
+            "Ann Ravindran",
+            "Packt Publishing Limited"
+        ],
+        "author_name": [
+            "Arun Ravindran"
+        ],
+        "seed": [
+            "/books/OL27199103M",
+            "/works/OL20019040W",
+            "/subjects/authoring_programs",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/web_sites",
+            "/subjects/web_site_development",
+            "/subjects/computer_programs",
+            "/authors/OL7494655A"
+        ],
+        "oclc": [
+            "910333726"
+        ],
+        "author_key": [
+            "OL7494655A"
+        ],
+        "subject": [
+            "Authoring programs",
+            "Django (Electronic resource)",
+            "Web sites",
+            "Web site development",
+            "Computer programs"
+        ],
+        "title": "Django design patterns and best practices",
+        "publish_date": [
+            "2015"
+        ],
+        "type": "work",
+        "ebook_count_i": 0,
+        "publish_place": [
+            "Birmingham,  UK"
+        ],
+        "edition_count": 1,
+        "key": "/works/OL20019040W",
+        "publisher": [
+            "Packt Publishing Limited"
+        ],
+        "language": [
+            "eng"
+        ],
+        "last_modified_i": 1563527570,
+        "publish_year": [
+            2015
+        ],
+        "first_publish_year": 2015
+    },
+    {
+        "title_suggest": "Python web development with Django",
+        "edition_key": [
+            "OL22501409M"
+        ],
+        "cover_i": 5732579,
+        "isbn": [
+            "9780132356138",
+            "0132356139"
+        ],
+        "has_fulltext": true,
+        "text": [
+            "OL22501409M",
+            "9780132356138",
+            "0132356139",
+            "Jeff Forcier",
+            "Chun, Wesley.",
+            "Bissex, Paul.",
+            "pythonwebdevelop00forc",
+            "OL6460037A",
+            "Python web development with Django",
+            "Python (Computer program language)",
+            "Accessible book",
+            "Web sites",
+            "Web site development",
+            "Authoring programs",
+            "Django (Electronic resource)",
+            "Protected DAISY",
+            "/works/OL13600452W",
+            "Jeff Forcier, Paul Bissex, Wesley Chun.",
+            "Addison-Wesley",
+            "2008037134"
+        ],
+        "author_name": [
+            "Jeff Forcier"
+        ],
+        "contributor": [
+            "Chun, Wesley.",
+            "Bissex, Paul."
+        ],
+        "seed": [
+            "/books/OL22501409M",
+            "/works/OL13600452W",
+            "/subjects/authoring_programs",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/python_(computer_program_language)",
+            "/subjects/web_site_development",
+            "/subjects/web_sites",
+            "/authors/OL6460037A"
+        ],
+        "ia": [
+            "pythonwebdevelop00forc"
+        ],
+        "author_key": [
+            "OL6460037A"
+        ],
+        "subject": [
+            "Python (Computer program language)",
+            "Accessible book",
+            "Web sites",
+            "Web site development",
+            "Authoring programs",
+            "Django (Electronic resource)",
+            "Protected DAISY"
+        ],
+        "title": "Python web development with Django",
+        "ia_collection_s": "printdisabled;librarygenesis",
+        "first_publish_year": 2009,
+        "type": "work",
+        "ebook_count_i": 1,
+        "publish_place": [
+            "Upper Saddle River, NJ"
+        ],
+        "printdisabled_s": "OL22501409M",
+        "edition_count": 1,
+        "key": "/works/OL13600452W",
+        "id_goodreads": [
+            "3346656"
+        ],
+        "public_scan_b": false,
+        "publisher": [
+            "Addison-Wesley"
+        ],
+        "language": [
+            "eng"
+        ],
+        "lccn": [
+            "2008037134"
+        ],
+        "last_modified_i": 1406684451,
+        "id_librarything": [
+            "7648755"
+        ],
+        "cover_edition_key": "OL22501409M",
+        "publish_year": [
+            2009
+        ],
+        "publish_date": [
+            "2009"
+        ]
+    },
+    {
+        "title_suggest": "Django 1.2 e-commerce",
+        "edition_key": [
+            "OL25560773M"
+        ],
+        "cover_i": 8640349,
+        "isbn": [
+            "1847197019",
+            "1847197000",
+            "9781847197009",
+            "9781847197016"
+        ],
+        "has_fulltext": true,
+        "text": [
+            "OL25560773M",
+            "1847197019",
+            "1847197000",
+            "9781847197009",
+            "9781847197016",
+            "Jesse Legg",
+            "ebrary, Inc",
+            "694518522",
+            "djangoecommerce00legg",
+            "OL7210500A",
+            "Protected DAISY",
+            "Python (Computer program language)",
+            "Electronic commerce",
+            "Accessible book",
+            "Web sites",
+            "Authoring programs",
+            "Django (Electronic resource)",
+            "Computer programs",
+            "build powerful e-commerce applications using Django, a leading Python web framework",
+            "Django 1.2 e-commerce",
+            "/works/OL16973901W",
+            "Jesse Legg",
+            "Packt Open Source"
+        ],
+        "author_name": [
+            "Jesse Legg"
+        ],
+        "contributor": [
+            "ebrary, Inc"
+        ],
+        "seed": [
+            "/books/OL25560773M",
+            "/works/OL16973901W",
+            "/subjects/python_(computer_program_language)",
+            "/subjects/electronic_commerce",
+            "/subjects/web_sites",
+            "/subjects/authoring_programs",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/computer_programs",
+            "/authors/OL7210500A"
+        ],
+        "oclc": [
+            "694518522"
+        ],
+        "ia": [
+            "djangoecommerce00legg"
+        ],
+        "author_key": [
+            "OL7210500A"
+        ],
+        "subject": [
+            "Protected DAISY",
+            "Python (Computer program language)",
+            "Electronic commerce",
+            "Accessible book",
+            "Web sites",
+            "Authoring programs",
+            "Django (Electronic resource)",
+            "Computer programs"
+        ],
+        "title": "Django 1.2 e-commerce",
+        "ia_collection_s": "printdisabled;librarygenesis",
+        "printdisabled_s": "OL25560773M",
+        "type": "work",
+        "ebook_count_i": 1,
+        "publish_place": [
+            "Birmingham, U.K"
+        ],
+        "edition_count": 1,
+        "key": "/works/OL16973901W",
+        "public_scan_b": false,
+        "publisher": [
+            "Packt Open Source"
+        ],
+        "language": [
+            "eng"
+        ],
+        "last_modified_i": 1561844206,
+        "first_publish_year": 2010,
+        "cover_edition_key": "OL25560773M",
+        "publish_year": [
+            2010
+        ],
+        "publish_date": [
+            "2010"
+        ]
+    },
+    {
+        "title_suggest": "Pro Django",
+        "edition_key": [
+            "OL24420983M"
+        ],
+        "cover_i": 8710300,
+        "isbn": [
+            "9781430210474",
+            "1430210478"
+        ],
+        "has_fulltext": true,
+        "text": [
+            "OL24420983M",
+            "9781430210474",
+            "1430210478",
+            "Marty Alchin",
+            "298844586",
+            "prodjango00alch",
+            "OL6842967A",
+            "Python (Computer program language)",
+            "Accessible book",
+            "Web sites",
+            "Web site development",
+            "Authoring programs",
+            "Django (Electronic resource)",
+            "Computer science",
+            "Protected DAISY",
+            "Pro Django",
+            "/works/OL15453913W",
+            "Marty Alchin",
+            "Apress",
+            "Distributed to the Book trade worldwide by Springer-Verlag",
+            "2009419156"
+        ],
+        "author_name": [
+            "Marty Alchin"
+        ],
+        "seed": [
+            "/books/OL24420983M",
+            "/works/OL15453913W",
+            "/subjects/authoring_programs",
+            "/subjects/web_site_development",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/web_sites",
+            "/subjects/python_(computer_program_language)",
+            "/subjects/computer_science",
+            "/authors/OL6842967A"
+        ],
+        "oclc": [
+            "298844586"
+        ],
+        "ia": [
+            "prodjango00alch"
+        ],
+        "author_key": [
+            "OL6842967A"
+        ],
+        "subject": [
+            "Python (Computer program language)",
+            "Accessible book",
+            "Web sites",
+            "Web site development",
+            "Authoring programs",
+            "Django (Electronic resource)",
+            "Computer science",
+            "Protected DAISY"
+        ],
+        "title": "Pro Django",
+        "ia_collection_s": "printdisabled;librarygenesis",
+        "printdisabled_s": "OL24420983M",
+        "type": "work",
+        "ebook_count_i": 1,
+        "publish_place": [
+            "Berkeley, CA",
+            "New York"
+        ],
+        "edition_count": 1,
+        "key": "/works/OL15453913W",
+        "public_scan_b": false,
+        "publisher": [
+            "Apress",
+            "Distributed to the Book trade worldwide by Springer-Verlag"
+        ],
+        "language": [
+            "eng"
+        ],
+        "lccn": [
+            "2009419156"
+        ],
+        "last_modified_i": 1562424299,
+        "first_publish_year": 2009,
+        "cover_edition_key": "OL24420983M",
+        "publish_year": [
+            2009
+        ],
+        "publish_date": [
+            "2009"
+        ]
+    },
+    {
+        "title_suggest": "Practical Django Projects (Pratical Projects)",
+        "edition_key": [
+            "OL12369600M"
+        ],
+        "cover_i": 2951567,
+        "isbn": [
+            "1590599969",
+            "9781590599969"
+        ],
+        "has_fulltext": true,
+        "text": [
+            "OL12369600M",
+            "1590599969",
+            "9781590599969",
+            "James Bennett",
+            "practicaldjangop0000benn",
+            "OL1608116A",
+            "Informatique",
+            "Web",
+            "Web sites",
+            "Accessible book",
+            "COMPUTERS",
+            "Web site development",
+            "Django (Electronic resource)",
+            "Design",
+            "Protected DAISY",
+            "Web Programming",
+            "Practical Django Projects (Pratical Projects)",
+            "/works/OL6224007W",
+            "Apress"
+        ],
+        "author_name": [
+            "James Bennett"
+        ],
+        "seed": [
+            "/books/OL12369600M",
+            "/works/OL6224007W",
+            "/subjects/informatique",
+            "/subjects/web",
+            "/subjects/computers",
+            "/subjects/web_site_development",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/web_programming",
+            "/subjects/web_sites",
+            "/subjects/design",
+            "/authors/OL1608116A"
+        ],
+        "ia": [
+            "practicaldjangop0000benn"
+        ],
+        "author_key": [
+            "OL1608116A"
+        ],
+        "subject": [
+            "Informatique",
+            "Web",
+            "Web sites",
+            "Accessible book",
+            "COMPUTERS",
+            "Web site development",
+            "Django (Electronic resource)",
+            "Design",
+            "Protected DAISY",
+            "Web Programming"
+        ],
+        "title": "Practical Django Projects (Pratical Projects)",
+        "ia_collection_s": "printdisabled;china;internetarchivebooks",
+        "printdisabled_s": "OL12369600M",
+        "type": "work",
+        "ebook_count_i": 1,
+        "ia_box_id": [
+            "IA1270910"
+        ],
+        "edition_count": 1,
+        "key": "/works/OL6224007W",
+        "id_goodreads": [
+            "2433232"
+        ],
+        "public_scan_b": false,
+        "publisher": [
+            "Apress"
+        ],
+        "language": [
+            "eng"
+        ],
+        "last_modified_i": 1563249551,
+        "first_publish_year": 2008,
+        "id_librarything": [
+            "5305882"
+        ],
+        "cover_edition_key": "OL12369600M",
+        "publish_year": [
+            2008
+        ],
+        "publish_date": [
+            "June 23, 2008"
+        ]
+    },
+    {
+        "title_suggest": "Django JavaScript integration",
+        "edition_key": [
+            "OL25551909M"
+        ],
+        "cover_i": 8640350,
+        "isbn": [
+            "1849510342",
+            "1849510350",
+            "9781849510349",
+            "9781849510356"
+        ],
+        "has_fulltext": true,
+        "text": [
+            "OL25551909M",
+            "1849510342",
+            "1849510350",
+            "9781849510349",
+            "9781849510356",
+            "Jonathan Hayward",
+            "ebrary, Inc",
+            "708564468",
+            "djangojavascript00hayw",
+            "OL7206907A",
+            "JavaScript (Computer program language)",
+            "Accessible book",
+            "Web site development",
+            "Django (Electronic resource)",
+            "Ajax (Web site development technology)",
+            "Protected DAISY",
+            "AJAX and JQuery",
+            "Django JavaScript integration",
+            "/works/OL16954162W",
+            "Jonathan Hayward",
+            "Packt Open Source"
+        ],
+        "author_name": [
+            "Jonathan Hayward"
+        ],
+        "contributor": [
+            "ebrary, Inc"
+        ],
+        "seed": [
+            "/books/OL25551909M",
+            "/works/OL16954162W",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/ajax_(web_site_development_technology)",
+            "/subjects/web_site_development",
+            "/subjects/javascript_(computer_program_language)",
+            "/authors/OL7206907A"
+        ],
+        "oclc": [
+            "708564468"
+        ],
+        "ia": [
+            "djangojavascript00hayw"
+        ],
+        "author_key": [
+            "OL7206907A"
+        ],
+        "subject": [
+            "JavaScript (Computer program language)",
+            "Accessible book",
+            "Web site development",
+            "Django (Electronic resource)",
+            "Ajax (Web site development technology)",
+            "Protected DAISY"
+        ],
+        "title": "Django JavaScript integration",
+        "ia_collection_s": "printdisabled;librarygenesis",
+        "printdisabled_s": "OL25551909M",
+        "type": "work",
+        "ebook_count_i": 1,
+        "publish_place": [
+            "Birmingham, U.K"
+        ],
+        "edition_count": 1,
+        "key": "/works/OL16954162W",
+        "public_scan_b": false,
+        "publisher": [
+            "Packt Open Source"
+        ],
+        "language": [
+            "eng"
+        ],
+        "last_modified_i": 1563323891,
+        "first_publish_year": 2011,
+        "cover_edition_key": "OL25551909M",
+        "publish_year": [
+            2011
+        ],
+        "publish_date": [
+            "2011"
+        ]
+    },
+    {
+        "title_suggest": "Django 11 Testing And Debugging Building Rigorously Tested And Bugfree Django Applications",
+        "edition_key": [
+            "OL26035291M"
+        ],
+        "cover_i": 7603936,
+        "isbn": [
+            "1847197566",
+            "9781847197566"
+        ],
+        "has_fulltext": true,
+        "text": [
+            "OL26035291M",
+            "1847197566",
+            "9781847197566",
+            "Karen M. Tracey",
+            "djangotestingdeb00trac",
+            "OL7317684A",
+            "Development",
+            "Testing",
+            "Python (Computer program language)",
+            "Application software",
+            "Protected DAISY",
+            "Accessible book",
+            "Debugging in computer science",
+            "Django (Electronic resource)",
+            "Computer programs",
+            "Django 11 Testing And Debugging Building Rigorously Tested And Bugfree Django Applications",
+            "/works/OL17450843W",
+            "Packt Publishing"
+        ],
+        "author_name": [
+            "Karen M. Tracey"
+        ],
+        "seed": [
+            "/books/OL26035291M",
+            "/works/OL17450843W",
+            "/subjects/development",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/debugging_in_computer_science",
+            "/subjects/python_(computer_program_language)",
+            "/subjects/application_software",
+            "/subjects/computer_programs",
+            "/subjects/testing",
+            "/authors/OL7317684A"
+        ],
+        "ia": [
+            "djangotestingdeb00trac"
+        ],
+        "author_key": [
+            "OL7317684A"
+        ],
+        "subject": [
+            "Development",
+            "Testing",
+            "Python (Computer program language)",
+            "Application software",
+            "Protected DAISY",
+            "Accessible book",
+            "Debugging in computer science",
+            "Django (Electronic resource)",
+            "Computer programs"
+        ],
+        "title": "Django 11 Testing And Debugging Building Rigorously Tested And Bugfree Django Applications",
+        "ia_collection_s": "printdisabled;librarygenesis",
+        "printdisabled_s": "OL26035291M",
+        "type": "work",
+        "ebook_count_i": 1,
+        "edition_count": 1,
+        "key": "/works/OL17450843W",
+        "public_scan_b": false,
+        "publisher": [
+            "Packt Publishing"
+        ],
+        "last_modified_i": 1561844214,
+        "first_publish_year": 2010,
+        "cover_edition_key": "OL26035291M",
+        "publish_year": [
+            2010
+        ],
+        "publish_date": [
+            "2010"
+        ]
+    },
+    {
+        "title_suggest": "Django 1.0 web site development",
+        "edition_key": [
+            "OL25541256M"
+        ],
+        "cover_i": 8206028,
+        "isbn": [
+            "1847196780",
+            "1847196799",
+            "9781847196798",
+            "9781847196781"
+        ],
+        "has_fulltext": true,
+        "text": [
+            "OL25541256M",
+            "1847196780",
+            "1847196799",
+            "9781847196798",
+            "9781847196781",
+            "Ayman Hourieh",
+            "ebrary, Inc",
+            "708251556",
+            "django10websited0000hour",
+            "OL7202395A",
+            "Web",
+            "COMPUTERS",
+            "Accessible book",
+            "Web sites",
+            "Site Design",
+            "General",
+            "Authoring programs",
+            "Digital Media",
+            "Django (Electronic resource)",
+            "Protected DAISY",
+            "User Generated Content",
+            "build powerful web applications, quickly and cleanly, with the Django application framework",
+            "Django 1.0 web site development",
+            "/works/OL16931030W",
+            "Ayman Hourieh",
+            "Packt Pub."
+        ],
+        "author_name": [
+            "Ayman Hourieh"
+        ],
+        "contributor": [
+            "ebrary, Inc"
+        ],
+        "seed": [
+            "/books/OL25541256M",
+            "/works/OL16931030W",
+            "/subjects/authoring_programs",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/web_sites",
+            "/subjects/web",
+            "/subjects/computers",
+            "/subjects/general",
+            "/subjects/digital_media",
+            "/subjects/site_design",
+            "/subjects/user_generated_content",
+            "/authors/OL7202395A"
+        ],
+        "oclc": [
+            "708251556"
+        ],
+        "ia": [
+            "django10websited0000hour"
+        ],
+        "author_key": [
+            "OL7202395A"
+        ],
+        "subject": [
+            "Web",
+            "COMPUTERS",
+            "Accessible book",
+            "Web sites",
+            "Site Design",
+            "General",
+            "Authoring programs",
+            "Digital Media",
+            "Django (Electronic resource)",
+            "Protected DAISY",
+            "User Generated Content"
+        ],
+        "title": "Django 1.0 web site development",
+        "lending_identifier_s": "django10websited0000hour",
+        "ia_collection_s": "printdisabled;inlibrary;china;internetarchivebooks",
+        "printdisabled_s": "OL25541256M",
+        "type": "work",
+        "ebook_count_i": 1,
+        "publish_place": [
+            "Birmingham, U.K"
+        ],
+        "ia_box_id": [
+            "IA1271601"
+        ],
+        "edition_count": 1,
+        "first_publish_year": 2009,
+        "key": "/works/OL16931030W",
+        "public_scan_b": false,
+        "publisher": [
+            "Packt Pub."
+        ],
+        "language": [
+            "eng"
+        ],
+        "last_modified_i": 1562320355,
+        "lending_edition_s": "OL25541256M",
+        "cover_edition_key": "OL25541256M",
+        "publish_year": [
+            2009
+        ],
+        "publish_date": [
+            "2009"
+        ]
+    },
+    {
+        "title_suggest": "Black Hollywood Unchained",
+        "publisher": [
+            "Third World Press"
+        ],
+        "cover_i": 8560346,
+        "isbn": [
+            "9780883783535",
+            "0883783533"
+        ],
+        "has_fulltext": false,
+        "title": "Black Hollywood Unchained",
+        "edition_key": [
+            "OL26863293M"
+        ],
+        "last_modified_i": 1563484462,
+        "edition_count": 1,
+        "subject": [
+            "Race in motion pictures",
+            "African Americans in the motion picture industry",
+            "Django unchained (Motion picture)",
+            "Criticism and interpretation",
+            "African Americans in motion pictures"
+        ],
+        "author_name": [
+            "Ishmael Reed"
+        ],
+        "cover_edition_key": "OL26863293M",
+        "seed": [
+            "/books/OL26863293M",
+            "/works/OL19643282W",
+            "/subjects/african_americans_in_the_motion_picture_industry",
+            "/subjects/django_unchained_(motion_picture)",
+            "/subjects/criticism_and_interpretation",
+            "/subjects/race_in_motion_pictures",
+            "/subjects/african_americans_in_motion_pictures",
+            "/authors/OL27626A"
+        ],
+        "first_publish_year": 2015,
+        "publish_year": [
+            2015
+        ],
+        "key": "/works/OL19643282W",
+        "text": [
+            "OL26863293M",
+            "9780883783535",
+            "0883783533",
+            "Ishmael Reed",
+            "OL27626A",
+            "Race in motion pictures",
+            "African Americans in the motion picture industry",
+            "Django unchained (Motion picture)",
+            "Criticism and interpretation",
+            "African Americans in motion pictures",
+            "Black Hollywood Unchained",
+            "/works/OL19643282W",
+            "Third World Press"
+        ],
+        "publish_date": [
+            "Sep 15, 2015"
+        ],
+        "author_key": [
+            "OL27626A"
+        ],
+        "type": "work",
+        "ebook_count_i": 0
+    },
+    {
+        "title_suggest": "The definitive guide to Django",
+        "edition_key": [
+            "OL8848936M",
+            "OL18590870M"
+        ],
+        "cover_i": 7110650,
+        "isbn": [
+            "1590597257",
+            "9781590597255",
+            "9781430203315",
+            "1430203315"
+        ],
+        "has_fulltext": true,
+        "text": [
+            "OL8848936M",
+            "OL18590870M",
+            "1590597257",
+            "9781590597255",
+            "9781430203315",
+            "1430203315",
+            "Adrian Holovaty",
+            "Jacob Kaplan-Moss",
+            "Gilmore, Jason.",
+            "Kaplan-Moss, Jacob.",
+            "definitiveguidet00holo",
+            "OL3116597A",
+            "OL3116598A",
+            "Authoring programs",
+            "In library",
+            "Computers",
+            "Python (Computer program language)",
+            "Internet - Web Site Design",
+            "Internet",
+            "Accessible book",
+            "Web sites",
+            "Programming - Software Development",
+            "Computer Books: Web Programming",
+            "Python (Computer language)",
+            "Computers - Languages / Programming",
+            "Django (Electronic resource)",
+            "Design",
+            "Computers / Programming / Software Development",
+            "Protected DAISY",
+            "Programming - General",
+            "Web development done right",
+            "Web Development Done Right (Pro)",
+            "The definitive guide to Django",
+            "/works/OL8977880W",
+            "Adrian Holovaty and Jacob Kaplan-Moss ; [lead editor: Jason Gilmore].",
+            "Apress",
+            "Distributed by Springer-Verlag",
+            "The Definitive Guide to Django",
+            "2008297303"
+        ],
+        "author_name": [
+            "Adrian Holovaty",
+            "Jacob Kaplan-Moss"
+        ],
+        "contributor": [
+            "Gilmore, Jason.",
+            "Kaplan-Moss, Jacob."
+        ],
+        "seed": [
+            "/books/OL8848936M",
+            "/books/OL18590870M",
+            "/works/OL8977880W",
+            "/subjects/python_(computer_language)",
+            "/subjects/in_library",
+            "/subjects/python_(computer_program_language)",
+            "/subjects/web_sites",
+            "/subjects/authoring_programs",
+            "/subjects/design",
+            "/subjects/protected_daisy",
+            "/subjects/django_(electronic_resource)",
+            "/subjects/internet",
+            "/subjects/computers_-_languages_/_programming",
+            "/subjects/computers",
+            "/subjects/computer_books:_web_programming",
+            "/subjects/programming_-_software_development",
+            "/subjects/computers_/_programming_/_software_development",
+            "/subjects/internet_-_web_site_design",
+            "/subjects/programming_-_general",
+            "/authors/OL3116597A",
+            "/authors/OL3116598A"
+        ],
+        "ia": [
+            "definitiveguidet00holo"
+        ],
+        "author_key": [
+            "OL3116597A",
+            "OL3116598A"
+        ],
+        "subject": [
+            "Authoring programs",
+            "In library",
+            "Computers",
+            "Python (Computer program language)",
+            "Internet - Web Site Design",
+            "Internet",
+            "Accessible book",
+            "Web sites",
+            "Programming - Software Development",
+            "Computer Books: Web Programming",
+            "Python (Computer language)",
+            "Computers - Languages / Programming",
+            "Django (Electronic resource)",
+            "Design",
+            "Computers / Programming / Software Development",
+            "Protected DAISY",
+            "Programming - General"
+        ],
+        "title": "The definitive guide to Django",
+        "lending_identifier_s": "definitiveguidet00holo",
+        "ia_collection_s": "printdisabled;inlibrary;china;internetarchivebooks",
+        "printdisabled_s": "OL18590870M",
+        "type": "work",
+        "ebook_count_i": 1,
+        "publish_place": [
+            "New York",
+            "Berkeley, Calif"
+        ],
+        "ia_box_id": [
+            "IA151801"
+        ],
+        "edition_count": 2,
+        "first_publish_year": 2007,
+        "key": "/works/OL8977880W",
+        "id_goodreads": [
+            "554529",
+            "7326953"
+        ],
+        "public_scan_b": false,
+        "publisher": [
+            "Apress",
+            "Distributed by Springer-Verlag"
+        ],
+        "language": [
+            "eng"
+        ],
+        "lccn": [
+            "2008297303"
+        ],
+        "last_modified_i": 1564561295,
+        "lending_edition_s": "OL18590870M",
+        "id_librarything": [
+            "3887517"
+        ],
+        "cover_edition_key": "OL18590870M",
+        "publish_year": [
+            2008,
+            2007
+        ],
+        "publish_date": [
+            "November 26, 2007",
+            "2008"
+        ]
+    }
+]
