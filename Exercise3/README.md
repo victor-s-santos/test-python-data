@@ -1,3 +1,6 @@
+`Utilizando o banco de dados postgres e o gerenciador adminer, podemos gerenciar o banco acessando:
+http://localhost:8080/`
+
 ## ---- Postgres
 sudo docker run \
     --name postgres \
@@ -16,5 +19,4 @@ sudo docker run \
     -d \
     adminer
 
-`Agora consigo visualizar o banco de dados através do client adminer, acessando:
-http://localhost:8080/` 
+ 
